@@ -1,0 +1,12 @@
+---
+name: Atom Package Manager GitHub Action
+description: Setup Atom package manager and publish packages
+author: tzvetkoff
+
+runs:
+  using: docker
+  image: Dockerfile
+
+branding:
+  icon: package
+  color: green
