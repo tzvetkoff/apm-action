@@ -1,4 +1,4 @@
-FROM ubuntu:eoan
+FROM ubuntu:focal
 
 ENV PATH=/home/node/.npm/bin:$PATH
 
